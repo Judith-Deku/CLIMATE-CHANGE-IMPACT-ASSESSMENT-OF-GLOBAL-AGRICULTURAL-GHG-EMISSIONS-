@@ -5,6 +5,12 @@
 
 This report analyzes a comprehensive dataset from the Food and Agriculture Organization (FAO) detailing agricultural greenhouse gas (GHG) emissions. The data focuses on two primary gases—Methane (CH₄) and Carbon Dioxide (CO₂)—released from agricultural land across nearly every country from 1990 to 2021. The analysis aims to identify the world's largest agricultural emitters, track global emission trends over the past three decades, determine the relative contribution of CH₄ versus CO₂, and highlight regional patterns of increasing or decreasing emissions. The insights are critical for policymakers, researchers, and environmental stakeholders to prioritize mitigation efforts.
 
+# Research Questions
+1.Which countries are the largest emitters of agricultural GHGs? 
+2. How have global agricultural emissions changed over the past 30 years? 
+3. What is the proportion of CH₄ vs CO₂ vs N2O in agricultural emissions? 
+4. Which regions show increasing vs decreasing emission trends?
+
 # Analysis Methods
 
 The analysis was performed using Excel's data analysis capabilities, employing the following methods:
@@ -60,7 +66,7 @@ North America (USA, Canada): Emissions have largely stabilized and show a slight
 Russia & Former Soviet States: Show a notable decreasing trend following the economic restructuring of the 1990s.
 
 # Dashboard
-The below image shows a graphical presentation of analysis derived from the dataset
+The below image shows a graphical presentation of analysis derived from the dataset and research questions.
 <img width="454" height="352" alt="image" src="https://github.com/user-attachments/assets/e600ac6f-9e76-47c3-b65a-dd2398b8c4f3" />
 
 # Conclusions
