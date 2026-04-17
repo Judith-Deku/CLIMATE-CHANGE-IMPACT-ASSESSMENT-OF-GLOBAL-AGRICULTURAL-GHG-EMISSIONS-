@@ -1,0 +1,2 @@
+# CLIMATE-CHANGE-IMPACT-ASSESSMENT-OF-GLOBAL-AGRICULTURAL-GHG-EMISSIONS-
+This report analyzes global greenhouse gas (GHG) emissions from agriculture to assess climate change impact. The analysis focuses on methane (CH₄) and carbon dioxide (CO₂) from 1990 to 2021. The objective is to identify key emission trends, major contributing countries, and potential risk and opportunities for stakeholders in the agriculture sector
